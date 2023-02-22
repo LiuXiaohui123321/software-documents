@@ -26,6 +26,14 @@ CP2K 介绍（清华-南开，刘锦程）：
 - https://wenku.baidu.com/view/930092b0ef3a87c24028915f804d2b160b4e8612.html?_wkts_=1676967994801
 - The Pseudopotential Approximation in Electronic Structure Theory: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cphc.201100387
 
+CP2K 方法和算法介绍
+-------------------
+
+- CP2K Open Source Molecular Dynamics: CP2K/For Users/For Developers
+- Basis Sets: https://www.cp2k.org/basis_sets
+- 基组和赝势：https://www.cp2k.org/_media/events:2015_cecam_tutorial:ling_basis_pseudo.pdf
+- Diagonalisation &Orbital Transformation: https://www.cp2k.org/_media/events:2016_summer_school:20160824_scf.pdf
+
 CP2K 使用方面相关问题
 -------------------
 
@@ -44,5 +52,19 @@ CP2K 使用方面相关问题
   
 - 使用问题
 
+  - CP2K input reference: https://manual.cp2k.org/cp2k-9_1-branch/index.html
+  - Input reference of CP2K version 9.1: https://manual.cp2k.org/cp2k-9_1-branch/CP2K_INPUT/FORCE_EVAL/SUBSYS/KIND.html#BASIS_SET
   - Quickstep方法：The keyword ''METHOD'' chooses the method for evaluating the forces on atoms to QUICKSTEP, i.e. Density Functional Theory using the Gaussian and Planewaves (GPW) method. 参考这里：https://www.cp2k.org/howto:static_calculation
   - 计算大体系时相关报错（Index to radix array not found），解决办法参考这里：https://blog.csdn.net/zh314js/article/details/76292026，即在脚本的&GLOBAL中加上"EXTENDED_FFT_LENGTHS T"
+  - B站CP2K 相关视频
+  
+    - Running CP2K calculations (prof. Jürg Hutter): https://www.bilibili.com/video/BV1oZ4y1c78K/?spm_id_from=333.337.search-card.all.click
+    - CP2K介绍——Nature, Science文章神器【CP2K课程01】: https://www.bilibili.com/video/BV1vJ41137Cn/?spm_id_from=333.337.search-card.all.click
+    - cp2k.inp输入文件初探【CP2K课程02】: https://www.bilibili.com/video/BV1nJ411M76M/?spm_id_from=333.788.recommend_more_video.0
+    - CP2K学习笔记（1）：https://www.bilibili.com/read/cv12519490
+    
+  - 知乎CP2K 相关文章
+  
+    - CP2K学习记录(1)：Si晶胞的静态计算：https://zhuanlan.zhihu.com/p/495399694
+    - Second generation CPMD: 
+    - QuickStep & OT method: https://zhuanlan.zhihu.com/p/29841461
