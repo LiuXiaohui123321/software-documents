@@ -37,6 +37,10 @@ DFT
 计算机
 -------
 
+- 码农的荒岛求生：https://github.com/xfenglu/everycodershouldknow
+
+  - CPU可以跑多快？地球到火星的距离告诉你！（标题）
+
 - 端口转发和反向代理：https://www.jianshu.com/p/dafbbbe4c43b
 - Intel 开发者文档之MKL：Developer Reference for Intel® oneAPI Math Kernel Library - C
 - PWmat及其相关软件和方法：https://s.wanfangdata.com.cn/paper?q=%E4%BD%9C%E8%80%85%3A%20%E8%B4%BE%E4%BC%9F%E4%B9%90
