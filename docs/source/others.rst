@@ -34,16 +34,20 @@ DFT
 - Optimization of Magnetic Moments (VASP): https://pychemia.readthedocs.io/en/latest/tutorial.magnetic_moments.html
 - Simulations of magnetic systems (siesta): https://www.home.uni-osnabrueck.de/apostnik/Lectures/APostnikov-Magnets.pdf
 
+计算材料软件PEtot加速：
+
+- 网上文档：https://www.docin.com/p-1131434944.html
+- PWmat及其相关软件和方法：https://s.wanfangdata.com.cn/paper?q=%E4%BD%9C%E8%80%85%3A%20%E8%B4%BE%E4%BC%9F%E4%B9%90
+
 计算机
 -------
 
 - 码农的荒岛求生：https://github.com/xfenglu/everycodershouldknow
 
   - CPU可以跑多快？地球到火星的距离告诉你！（标题）
-
+- Yubico 安装：https://support.yubico.com/hc/en-us/articles/360016649039-Enabling-the-Yubico-PPA-on-Ubuntu
 - 端口转发和反向代理：https://www.jianshu.com/p/dafbbbe4c43b
 - Intel 开发者文档之MKL：Developer Reference for Intel® oneAPI Math Kernel Library - C
-- PWmat及其相关软件和方法：https://s.wanfangdata.com.cn/paper?q=%E4%BD%9C%E8%80%85%3A%20%E8%B4%BE%E4%BC%9F%E4%B9%90
 - Linux 文件查找：
 
   Linux find命令：在目录中查找文件（超详解）
@@ -52,6 +56,7 @@ DFT
   
 - Linux 头文件sys/types.h[/usr/include/sys]：https://www.cnblogs.com/johnnyzen/p/8016796.html
 - C compiler cannot create executables: https://askubuntu.com/questions/647583/how-to-fix-configure-error-c-compiler-cannot-create-executables
+- /lib64/libstdc++.so.6: version `GLIBCXX_3.4.21' not found: https://github.com/pyg-team/pytorch_geometric/issues/1001
 - Latex协作：Overleaf, texpage
 - 差分机，分析机，机械计算，电子计算（真空电子管、晶体管、集成电路、大规模集成电路）
 - 语言，文字（书信），电子通信（有线，电报、电话），电子通信（无线，电磁波），电子计算机和互联网
