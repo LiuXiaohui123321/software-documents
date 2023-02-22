@@ -1,6 +1,14 @@
 其他
 =======
 
+Read the Docs 配置（github）及使用
+----------------------------------
+
+- Read the Docs tutorial: https://docs.readthedocs.io/en/stable/tutorial/#
+- Sphinx + GitHub + ReadtheDocs 创建电子书：https://www.linwang93.cn/posts/38fc55dd.html
+- Read the Docs 使用介绍（中文）：https://readthedocs-demo-zh.readthedocs.io/zh_CN/latest/%E6%96%87%E4%BB%B6%E6%89%98%E7%AE%A1%E7%B3%BB%E7%BB%9F-ReadtheDocs.html
+- 上海交大超算平台使用手册：https://docs.hpc.sjtu.edu.cn/index.html
+
 DFT
 -------
 
