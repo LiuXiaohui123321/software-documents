@@ -61,7 +61,7 @@ CP2K 使用方面相关问题
     - Running CP2K calculations (prof. Jürg Hutter): https://www.bilibili.com/video/BV1oZ4y1c78K/?spm_id_from=333.337.search-card.all.click
     - CP2K介绍——Nature, Science文章神器【CP2K课程01】: https://www.bilibili.com/video/BV1vJ41137Cn/?spm_id_from=333.337.search-card.all.click
     - cp2k.inp输入文件初探【CP2K课程02】: https://www.bilibili.com/video/BV1nJ411M76M/?spm_id_from=333.788.recommend_more_video.0
-    - CP2K学习笔记（1）：https://www.bilibili.com/read/cv12519490
+    - CP2K学习笔记（1）（涉及QUICKSTEP测试算例）：https://www.bilibili.com/read/cv12519490
     
   - 知乎CP2K 相关文章
   
