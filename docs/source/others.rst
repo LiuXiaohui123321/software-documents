@@ -10,4 +10,6 @@
   C语言中文网：C语言教程/C++教程/Python教程/Java教程/Linux入门，http://c.biancheng.net/
   
 - Linux 头文件sys/types.h[/usr/include/sys]：https://www.cnblogs.com/johnnyzen/p/8016796.html
-
+- Latex协作：Overleaf, texpage
+- 差分机，分析机，机械计算，电子计算（真空电子管、晶体管、集成电路、大规模集成电路）
+- 语言，文字（书信），电子通信（有线，电报、电话），电子通信（无线，电磁波），电子计算机和互联网
