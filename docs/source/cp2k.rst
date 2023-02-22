@@ -13,8 +13,7 @@ CP2K 介绍（清华-南开，刘锦程）：
 
 - https://mse.nankai.edu.cn/ljc/
 
-量子化学和固体物理计算软件清单（List of quantum chemistry and solid-state physics software
-）：
+量子化学和固体物理计算软件清单（List of quantum chemistry and solid-state physics software）：
 
 - https://handwiki.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software
 
