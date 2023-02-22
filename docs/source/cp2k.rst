@@ -2,6 +2,7 @@ cp2k
 ===============
 
 cp2k软件
+-------
 
 CP2K 官网：https://www.cp2k.org/
 
@@ -9,22 +10,8 @@ CP2K 性能分析：https://www.cp2k.org/dev:profiling
 
 CP2K GPU加速相关文章：https://pubs.acs.org/doi/pdf/10.1021/acs.jcim.1c01538
 
-CP2K 介绍（清华-南开，刘锦程）：
+CP2K 介绍（清华-南开，刘锦程）：https://mse.nankai.edu.cn/ljc/
 
-- https://mse.nankai.edu.cn/ljc/
-
-量子化学和固体物理计算软件清单（List of quantum chemistry and solid-state physics software）：
-
-- https://handwiki.org/wiki/List_of_quantum_chemistry_and_solid-state_physics_software
-
-知乎电子结构理论：
-
-- https://www.zhihu.com/column/c_1414556816600256512
-
-赝势方法：
-
-- https://wenku.baidu.com/view/930092b0ef3a87c24028915f804d2b160b4e8612.html?_wkts_=1676967994801
-- The Pseudopotential Approximation in Electronic Structure Theory: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cphc.201100387
 
 CP2K 方法和算法介绍
 -------------------
@@ -61,7 +48,7 @@ CP2K 使用方面相关问题
     - Running CP2K calculations (prof. Jürg Hutter): https://www.bilibili.com/video/BV1oZ4y1c78K/?spm_id_from=333.337.search-card.all.click
     - CP2K介绍——Nature, Science文章神器【CP2K课程01】: https://www.bilibili.com/video/BV1vJ41137Cn/?spm_id_from=333.337.search-card.all.click
     - cp2k.inp输入文件初探【CP2K课程02】: https://www.bilibili.com/video/BV1nJ411M76M/?spm_id_from=333.788.recommend_more_video.0
-    - CP2K学习笔记（1）：https://www.bilibili.com/read/cv12519490
+    - CP2K学习笔记（1）（涉及QUICKSTEP测试算例）：https://www.bilibili.com/read/cv12519490
     
   - 知乎CP2K 相关文章
   
