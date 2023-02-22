@@ -18,6 +18,14 @@ DFT
 - The Pseudopotential Approximation in Electronic Structure Theory: https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cphc.201100387
 - An Introduction to Pseudopotentials: http://www.tcm.phy.cam.ac.uk/~jry20/gipaw/tutorial_pp.pdf
 
+电子自旋：
+
+- 电子自旋及其描述：https://indico.cern.ch/event/776065/contributions/3226012/attachments/1757339/2849774/pdf
+- 磁学基础知识：http://staff.ustc.edu.cn/~zhuh/ppt/18zhuhMag11.pdf
+- vasp Constraining local magnetic moments: https://www.vasp.at/wiki/index.php/Constraining_local_magnetic_moments
+- Optimization of Magnetic Moments (VASP): https://pychemia.readthedocs.io/en/latest/tutorial.magnetic_moments.html
+- Simulations of magnetic systems (siesta): https://www.home.uni-osnabrueck.de/apostnik/Lectures/APostnikov-Magnets.pdf
+
 计算机
 -------
 
